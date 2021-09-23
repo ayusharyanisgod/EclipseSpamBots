@@ -1,4 +1,4 @@
-# EclipseSpamBots
+# 𝙀𝙘𝙡𝙞𝙥𝙨𝙚 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩𝙨
  𝐁𝐞𝐬𝐭 𝐒𝐩𝐚𝐦𝐦𝐢𝐧𝐠 𝐁𝐨𝐭𝐬 𝐖𝐢𝐭𝐡 𝐕𝐞𝐫𝐲 𝐋𝐞𝐬𝐬 𝐃𝐨𝐰𝐧 𝐓𝐢𝐦𝐞 𝐀𝐧𝐝 𝐎𝐏 𝐆𝐚𝐚𝐥𝐢. 𝐁𝐲 @The_Eclipse_Projects
  
  <p align="center">
@@ -29,7 +29,7 @@
 
 -------------------------------------------------
 ## 𝗢𝗪𝗡𝗘𝗥 -[Ace Duke](https://t.me/aceduke_sinx)
-## 𝗟𝗢𝗚𝗢 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 -1)[Sharique](https://t.me/AnonymousTechnician) 2)[Robert](https://t.me/@EL_DRAGO_DESTRUCTOR)
+## 𝗟𝗢𝗚𝗢 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 -1) [Sharique](https://t.me/AnonymousTechnician) 2) [Robert](https://t.me/@EL_DRAGO_DESTRUCTOR)
 ## 𝗧𝗛𝗘 𝗘𝗖𝗟𝗜𝗣𝗦𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 -[Click Here](https://t.me/The_Eclipse_Projects)
 -------------------------------------------------
 
