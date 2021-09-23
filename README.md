@@ -28,7 +28,7 @@
 <a href="https://t.me/The_Eclipse_Projects"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝗢𝗪𝗡𝗘𝗥 -[Ace Duke](https://t.me/aceduke_sinx)// [DEMON NETWORK](https://t.me/smitmorexd)
+## 𝗢𝗪𝗡𝗘𝗥 -[SinXBots](https://t.me/SinXBots)
 ## 𝗟𝗢𝗚𝗢 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 -1) [Sharique](https://t.me/AnonymousTechnician) 2) [Robert](https://t.me/@EL_DRAGO_DESTRUCTOR)
 ## 𝗧𝗛𝗘 𝗘𝗖𝗟𝗜𝗣𝗦𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 -[Click Here](https://t.me/The_Eclipse_Projects)
 -------------------------------------------------
