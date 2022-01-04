@@ -10,12 +10,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/acexduke/EclipseSpamBotsblob/main/LICENSE)
 
-
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
-                          
-<a href="https://t.me/the_demon_network"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/The_Sinners_Empire"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
-
 -------------------------------------------------
 ## 𝗟𝗢𝗚𝗢 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 -1) [Sharique](https://t.me/AnonymousTechnician) 2) [Robert](https://t.me/@EL_DRAGO_DESTRUCTOR)
 -------------------------------------------------
