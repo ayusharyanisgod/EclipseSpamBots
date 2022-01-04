@@ -10,10 +10,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/acexduke/EclipseSpamBotsblob/main/LICENSE)
 
--------------------------------------------------
-## 𝗟𝗢𝗚𝗢 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 -1) [Sharique](https://t.me/AnonymousTechnician) 2) [Robert](https://t.me/@EL_DRAGO_DESTRUCTOR)
--------------------------------------------------
-
 ## 🚀 Deploy on Heroku 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/acexduke/EclipseSpamBots)
 ------------------------------------------------
