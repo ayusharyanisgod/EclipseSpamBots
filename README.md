@@ -1,11 +1,6 @@
-# 𝙀𝙘𝙡𝙞𝙥𝙨𝙚 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩𝙨
- 𝐁𝐞𝐬𝐭 𝐒𝐩𝐚𝐦𝐦𝐢𝐧𝐠 𝐁𝐨𝐭𝐬 𝐖𝐢𝐭𝐡 𝐕𝐞𝐫𝐲 𝐋𝐞𝐬𝐬 𝐃𝐨𝐰𝐧 𝐓𝐢𝐦𝐞 𝐀𝐧𝐝 𝐎𝐏 𝐆𝐚𝐚𝐥𝐢. 𝐁𝐲 @The_Eclipse_Projects
+# 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩𝙨
+ 𝐁𝐞𝐬𝐭 𝐒𝐩𝐚𝐦𝐦𝐢𝐧𝐠 𝐁𝐨𝐭𝐬 𝐖𝐢𝐭𝐡 𝐕𝐞𝐫𝐲 𝐋𝐞𝐬𝐬 𝐃𝐨𝐰𝐧 𝐓𝐢𝐦𝐞 𝐀𝐧𝐝 𝐎𝐏 𝐆𝐚𝐚𝐥𝐢.
  
- <p align="center">
-  <img src="https://telegra.ph/file/ec456c11d8ac80242cfe5.jpg">
-</p>
-
-
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/dangerousjatt/SpamBot-2.0?utm_source=github.com&utm_medium=referral&utm_content=dangerousjatt/SpamBot-2.0&utm_campaign=Badge_Grade_Settings)
 [![Size](https://img.shields.io/github/repo-size/dangerousjatt/SpamBot-2.0?style=flat-square&color=green)](https://github.com/acexduke/EclipseSpamBots)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
@@ -28,9 +23,7 @@
 <a href="https://t.me/The_Sinners_Empire"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝗢𝗪𝗡𝗘𝗥 - [SINNERS](https://t.me/The_Sinners_Empire) 
 ## 𝗟𝗢𝗚𝗢 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 -1) [Sharique](https://t.me/AnonymousTechnician) 2) [Robert](https://t.me/@EL_DRAGO_DESTRUCTOR)
-## 𝗧𝗛𝗘 𝗘𝗖𝗟𝗜𝗣𝗦𝗘 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 -[Click Here](https://t.me/The_Eclipse_Projects)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
